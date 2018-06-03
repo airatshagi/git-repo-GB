@@ -1,0 +1,4 @@
+Static void main (String args[])
+{
+	println("Goodbye, world!");
+}
