@@ -4,4 +4,5 @@ print("Hello, everybody");
 Static void main (String args [])
 {
 	println("New action.);
+	println("Hello, my dear freind!");
 }
