@@ -1,9 +1,10 @@
-print("Hello, world");
-print("Hello, everybody");
+print("Hello, world;");
+print("Hello, everybody;");
 
 Static void main (String args [])
 {
-	println("New action.);
+	println("New action.;");
 	println("Hello, my dear freind!");
 	println("Glad to see you.");
+	println("New action.;");
 }
